@@ -87,7 +87,7 @@ Retrieve the bearer token from the response body
 _Ensure you do not leak client secret
 to the frontend_
 
-Read in detailed [step by step instructions in the wiki](wiki)
+Read in detailed [step by step instructions in the wiki](https://github.com/coding-blocks/oneauth/wiki/Explicit-Authentication)
 
 -------------------------
 
